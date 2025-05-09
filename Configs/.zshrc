@@ -12,3 +12,4 @@
 
 #  This is your file 
 # Add your configurations here
+source /usr/share/zsh-theme-powerlevel10k/powerlevel10k.zsh-theme
